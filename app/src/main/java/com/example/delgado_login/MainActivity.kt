@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         val etPassword = findViewById<TextInputEditText>(R.id.etPassword)
         val btnLogin = findViewById<Button>(R.id.btnLogin)
 
-        // Credenciales válidas (en un proyecto real usarías una base de datos o autenticación)
+        // Credenciales válidas 
         val validUsername = "usuario"
         val validPassword = "12345"
 
